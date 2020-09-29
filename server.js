@@ -44,7 +44,7 @@ client.on('guildMemberAdd', async user => {
 	const canvas = Canvas['createCanvas'](400, 189);
 	const ctx = canvas['getContext']('2d');
 
-	const WelcomeImage = await Canvas['loadImage']('https://cdn.discordapp.com/attachments/719215919838134295/758389920036683786/LsZxi.png'); // صـــور الــتــرحـيـب
+	const WelcomeImage = await Canvas['loadImage']('https://cdn.discordapp.com/attachments/744692299086299146/760613917406789633/download_1.png'); // صـــور الــتــرحـيـب
 	ctx.drawImage(WelcomeImage, 0, 0, canvas.width, canvas.height);
 
 	ctx.strokeStyle = '#74037b';
