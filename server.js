@@ -64,4 +64,4 @@ client.on('guildMemberAdd', async user => {
 });
 
 
-client.login("NzU3NTk5NjIxOTgyNzE1OTE1.X2ivoQ.GI1sOABLVd_X9Oqae2zuzHN-jYg");
+client.login("NzYwNjE0NDE2NTAzOTMwODgx.X3OnYA.3m7BGQn7hRPFGhxltzqpdG1y5wE");
